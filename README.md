@@ -17,16 +17,9 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
-
-## 🙋 FAQ (optional)
-
--   Q: **_"Where can I find the doc?"_**
-    A: Run `:help theme`
+1. Clone this repository locally ~/.config/rofi/
+2. Enjoy
 
 ## 💝 Thanks to
 
--   [Human](https://github.com/catppuccin)
+-   [Yoliani](https://github.com/Yoliani)
