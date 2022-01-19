@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yoliani/rofi/blob/main/assets/drun.png"/>
+  <img src="https://raw.githubusercontent.com/Yoliani/rofi/main/assets/drun.png"/>
 </p>
 
 ## Usage
