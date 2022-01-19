@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/sample.png"/>
+  <img src="https://raw.githubusercontent.com/Yoliani/rofi/blob/main/assets/drun.png"/>
 </p>
 
 ## Usage
@@ -24,9 +24,9 @@
 
 ## 🙋 FAQ (optional)
 
-- Q: **_"Where can I find the doc?"_**
-  A: Run `:help theme`
+-   Q: **_"Where can I find the doc?"_**
+    A: Run `:help theme`
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+-   [Human](https://github.com/catppuccin)
